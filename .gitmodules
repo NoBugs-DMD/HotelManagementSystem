@@ -1,0 +1,6 @@
+[submodule "HotelManagementSystemFrontend"]
+	path = HotelManagementSystemFrontend
+	url = git@github.com:NoBugs-DMD/HotelManagementSystemFrontend.git
+[submodule "HotelManagementSystemBackend"]
+	path = HotelManagementSystemBackend
+	url = git@github.com:NoBugs-DMD/HotelManagementSystemBackend.git
